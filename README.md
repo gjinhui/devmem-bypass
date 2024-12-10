@@ -3,15 +3,15 @@
 ## How to use
 
 ```bash
-# clone the code
+# Clone the code
 git clone https://github.com/gjinhui/devmem-bypass.git
 
 # Go to the source directory
 cd devmem-bypass
 
-# build the code
+# Build the code
 make
 
-# insmod the module
+# Insmod the module
 insmod devmem-bypass.ko
 ```
